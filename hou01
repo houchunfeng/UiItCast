@@ -1,6 +1,6 @@
 这是分支的练习
 切换分支的命令
-git checkout liu01(分支的名字)
+git checkout hou01(分支的名字)
 
 查看当前分支的
 git branch(带星号的是当前使用的分支)
