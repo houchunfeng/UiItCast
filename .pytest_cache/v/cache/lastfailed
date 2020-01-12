@@ -1,0 +1,7 @@
+{
+  "scripts/test01_mp_login.py::TestMpLogin::()::test_mp_login[13812345678-246810-1381234567]": true,
+  "scripts/test01_mp_login.py::testMpLogin::()::test_mp_login": true,
+  "scripts/test01_mp_login.py::testMpLogin::()::test_mp_login[13812345678-246810-1381234567]": true,
+  "scripts/test02_mp_article.py::TestMpArticle::()::test_mp_article[13812345678-246810-1381234567]": true,
+  "scripts/test02_mp_article.py::TestMpArticle::()::test_mp_article[45645-456456-\\u6587\\u7ae0\\u6210\\u529f]": true
+}

@@ -1,0 +1,17 @@
+base：page中的公共方法
+data:测试数据的存储文件
+images：失败图片
+log:日志
+page:页面对象
+report：测试报告
+scripts：测试脚本
+tools：工具类
+pytest.ini:配置文件
+config.py:配置文件
+
+
+手机号：13812345678
+验证码：246810
+
+test01_mp_login.py------测试的是登录的用例
+test02_mp_article.py----依赖登录成功的用例实现文章的发布测试

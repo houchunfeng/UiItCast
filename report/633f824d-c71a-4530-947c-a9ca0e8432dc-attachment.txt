@@ -1,0 +1,10 @@
+base.py                     17 INFO     正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="214bf15c79ba5a56fe207a0a0e3e9ec3")>
+base.py                     28 INFO     正在查找元素：('css selector', "[placeholder='请输入手机号']")
+base.py                     40 INFO     正在执行清空操作
+base.py                     42 INFO     正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+base.py                     28 INFO     正在查找元素：('css selector', "[placeholder='验证码']")
+base.py                     40 INFO     正在执行清空操作
+base.py                     42 INFO     正在给('css selector', "[placeholder='验证码']")元素 执行输入操作：246810
+base.py                     51 INFO     正在对('css selector', '.el-button--primary')元素 执行点击操作
+base.py                     28 INFO     正在查找元素：('css selector', '.el-button--primary')
+base.py                     17 INFO     正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="214bf15c79ba5a56fe207a0a0e3e9ec3")>

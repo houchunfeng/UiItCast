@@ -1,0 +1,132 @@
+info级别的错误
+error级别的错误
+warning级别的错误
+info级别的错误
+error级别的错误
+warning级别的错误
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="acc0e20332a0059f4e7a778b79eaa656")>
+正在查找元素：('css selector', '[placeholder="请输入手机号"]')
+正在执行清空操作
+正在给('css selector', '[placeholder="请输入手机号"]')元素 执行输入操作：13812345678
+正在查找元素：('css selector', '[placeholder="验证码"]')
+正在执行清空操作
+正在给('css selector', '[placeholder="验证码"]')元素 执行输入操作：246810
+正在对<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>元素 执行点击操作
+正在查找元素：<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="5f0ed541464f3408757e16351e13c5b7")>
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在执行清空操作
+正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+正在查找元素：('css selector', "[placeholder='验证码']")
+正在执行清空操作
+正在给('css selector', "[placeholder='验证码']")元素 执行输入操作：246810
+正在对<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>元素 执行点击操作
+正在查找元素：<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="09035919794d86213ecb4f5afdab89cc")>
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在执行清空操作
+正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+正在查找元素：('css selector', "[placeholder='验证码']")
+正在执行清空操作
+正在给('css selector', "[placeholder='验证码']")元素 执行输入操作：246810
+正在对<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>元素 执行点击操作
+正在查找元素：<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="38a19b45232eb6e603f909e72fe5d14e")>
+
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在执行清空操作
+正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+正在查找元素：('css selector', "[placeholder='验证码']")
+正在执行清空操作
+正在给('css selector', "[placeholder='验证码']")元素 执行输入操作：246810
+正在对<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>元素 执行点击操作
+正在查找元素：<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="b1a58e055b3468ae1ee26d00288369de")>
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在执行清空操作
+正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+正在查找元素：('css selector', "[placeholder='验证码']")
+正在执行清空操作
+正在给('css selector', "[placeholder='验证码']")元素 执行输入操作：246810
+正在对<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>元素 执行点击操作
+正在查找元素：<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="48a84292830e20726cb2e79a60f1ddc5")>
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在执行清空操作
+正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+正在查找元素：('css selector', "[placeholder='验证码']")
+正在执行清空操作
+正在给('css selector', "[placeholder='验证码']")元素 执行输入操作：246810
+正在对<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>元素 执行点击操作
+正在查找元素：<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="b1bbc242bbe9f7deda7b39b2bef5af38")>
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在执行清空操作
+正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="975a687a3911df57c4b0ea9f7b48b236")>
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在执行清空操作
+正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+正在查找元素：('css selector', "[placeholder='验证码']")
+正在执行清空操作
+正在给('css selector', "[placeholder='验证码']")元素 执行输入操作：246810
+正在对<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>元素 执行点击操作
+正在查找元素：<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="dc95b6a2f826183c92290af437151481")>
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在执行清空操作
+正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+正在查找元素：('css selector', "[placeholder='验证码']")
+正在执行清空操作
+正在给('css selector', "[placeholder='验证码']")元素 执行输入操作：246810
+正在对<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>元素 执行点击操作
+正在查找元素：<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="166338c213312e00b506cd3370af7f17")>
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="3feb2af34f708e8944add6052943b113")>
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在执行清空操作
+正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+正在查找元素：('css selector', "[placeholder='验证码']")
+正在执行清空操作
+正在给('css selector', "[placeholder='验证码']")元素 执行输入操作：246810
+正在对<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>元素 执行点击操作
+正在查找元素：<module 'page.page_mp_login' from 'C:\\hcf_testBank\\PycharmProjects\\UiItCast\\page\\page_mp_login.py'>
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="9af3c7cf57d08671cc4befceae8b2e97")>
+正在查找元素：('css selector', "[placeholder='请输入手机号']")
+正在执行清空操作
+正在给('css selector', "[placeholder='请输入手机号']")元素 执行输入操作：13812345678
+正在查找元素：('css selector', "[placeholder='验证码']")
+正在执行清空操作
+正在给('css selector', "[placeholder='验证码']")元素 执行输入操作：246810
+正在对('css selector', '.el-button--primary')元素 执行点击操作
+正在查找元素：('css selector', '.el-button--primary')
+正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="9af3c7cf57d08671cc4befceae8b2e97")>
+正在对('xpath', "//div[@class='menu-wrapper']//*[text()='内容管理']")元素 执行点击操作
+正在查找元素：('xpath', "//div[@class='menu-wrapper']//*[text()='内容管理']")
+正在对('xpath', "//*[contains(text(),'发布文章')]")元素 执行点击操作
+正在查找元素：('xpath', "//*[contains(text(),'发布文章')]")
+正在查找元素：('css selector', "[placeholder='文章名称']")
+正在执行清空操作
+正在给('css selector', "[placeholder='文章名称']")元素 执行输入操作：45645
+正在查找元素：('css selector', '#publishTinymce_ifr')
+正在查找元素：('css selector', '#tinymce')
+正在执行清空操作
+正在给('css selector', '#tinymce')元素 执行输入操作：456456
+正在对('xpath', "//*[text()='自动']")元素 执行点击操作
+正在查找元素：('xpath', "//*[text()='自动']")
+正在对('css selector', "[placeholder='请选择']")元素 执行点击操作
+正在查找元素：('css selector', "[placeholder='请选择']")
+正在对('xpath', "//*[text()='数据库']")元素 执行点击操作
+正在查找元素：('xpath', "//*[text()='数据库']")
+正在对('css selector', '.el-button.filter-item.el-button--primary')元素 执行点击操作
+正在查找元素：('css selector', '.el-button.filter-item.el-button--primary')
+正在查找元素：('xpath', "//*[contains(text(),'成功')]")
+正在获取('xpath', "//*[contains(text(),'成功')]")元素文本值：新增文章成功
+正在查找元素：('xpath', "//*[contains(text(),'成功')]")
+assert '文章成功' == '新增文章成功'
+  - 文章成功
+  + 新增文章成功
+  ? ++
+出现异常！正在截图操作
+异常处理！正在截图写入报告
